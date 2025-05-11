@@ -51,7 +51,7 @@ const Footer = () => {
                             <BsEnvelopeFill /> support@shoppire.com
                         </p>
                         <p className="text-gray-10 mb-2 flex items-center gap-2">
-                            <BsGeoAltFill /> 123 Shoppire, Suite 100, New York, NY
+                            <BsGeoAltFill /> 123 Shoppire, Thu Duc, VIET NAM, VN
                         </p>
                     </div>
 
